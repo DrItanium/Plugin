@@ -1,0 +1,6 @@
+This library is meant to define PluginLibraries and Plugins. These plugins are
+able to communicate across application domains. The PluginLibrary is a metadata
+tag that is read at runtime which defines an assembly filled with Plugins which
+are flagged with the Plugin metadata attribute
+
+This library is licensed under the BSD license.
